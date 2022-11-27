@@ -1,84 +1,78 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Xiao Xiao (肖潇)
 
-# Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+# Username (this should match the folder name)
+authors:
+- admin
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Professor of Artificial Intelligence
+# Role/position
+role: PhD student
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+- name: UCLA Bioengineering
+  url: "https://www.bioeng.ucla.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on bioelectronics, bioinspired materials, as well as nanotechnology for energy and healthcare applications.
 
-# Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- bioelectronics
+- bioengineering
+- bionics
 
-# Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: Ph.D. student
+    institution: University of California, Los Angeles
+    year: 2020 ~ Now
+  - course: B.Eng.
+    institution: Beihang University
+    year: 2016 ~ 2020
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-# and uncomment the lines below.
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:xiaoxiao1999@ucla.edu"  # For a direct email link, use "mailto:test@example.org".
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=zh-CN&user=rC2ECMoAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/xiaoxiao1999319
+# - icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/xiao-xiao99/
+#- icon: weixin
+#  icon_pack: fab
+#  link: "files/wechat.jpg"
+# - icon: qq
+#  icon_pack: fab
+#  link: "files/qq.jpg"
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: "files/cv.pdf"
+  
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: "xiaoxiao1999@ucla.edu"
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Researchers
+- Visitors
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+**Xiao Xiao** is a Ph.D. student in the University of California, Los Angeles. At UCLA, he conducts research under the supervision of Professor Jun Chen in the [Wearable Bioelectronics Research Group](https://www.junchenlab.com). He has already published **21** journal articles and **11** of them are as the first/co-first author in *Science Advances*, *Chemical Reviews*, *Trends in Chemistry*, *ACS Nano*, *Nano Letters*, *Advanced Healthcare Materials*, and many others. Of note, **7** of those publications are selected as journal cover art, and **2** are Highly Cited Paper and Hot Paper by the Web of Science. 
