@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
-- name: UCLA Bioengineering
-  url: "https://www.bioeng.ucla.edu/"
+- name: NUS ECE
+  url: "https://cde.nus.edu.sg/ece/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on bioelectronics, bioinspired materials, as well as nanotechnology for energy and healthcare applications.
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. student
+    institution: National University of Singapore
+    year: 2022 ~ Now
   - course: Ph.D. student
     institution: University of California, Los Angeles
     year: 2020 ~ Now
